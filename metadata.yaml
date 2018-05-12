@@ -1,0 +1,43 @@
+_repo: Cato-Maior-de-Senectute-with-Introduction-and-Notes_14945
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Reid, James S. (James Smith)
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '5773'
+    url: http://www.gutenberg.org/2009/agents/5773
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+  editor:
+    agent_name: Kelsey, Francis W. (Francis Willey)
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '39160'
+    url: http://www.gutenberg.org/2009/agents/39160
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14945'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Old age -- Early works to 1800'
+- !lcc 'PA'
+title: Cato Maior de Senectute with Introduction and Notes
+url: http://www.gutenberg.org/ebooks/14945
